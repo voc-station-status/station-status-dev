@@ -12,8 +12,8 @@ Data from date: **01.01.2011**
 
 Data to date: **01.01.2016**
 
-> Submission status: 2 
-{: .submission_status_2 }
+> Submission status: 1 
+{: .submission_status_1 }
 
 Responsible: **anja.claude@dwd.de**
 
