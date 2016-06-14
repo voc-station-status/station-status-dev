@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This site contains the status for the VOC data submission. The station status for VOC data is maintained by NILU. You can obtain the status documents themselves via github, and for example incorparate them in your own application using the github api.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find the documents for VOC station status at 
+{% include icon-github.html username="voc-station-status" %} /
+[station-status-voc](https://github.com/voc-station-status/station-status-dev/tree/master/_posts)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This site is maintained by [NILU](http://nilu.no)
