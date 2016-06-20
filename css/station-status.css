@@ -1,16 +1,20 @@
 .submission_status_1 {
-        background-color: green;
+        background-color: #31a35;
+	color: #ffffff;
 }
 
 .submission_status_2 {
-        background-color: yellow;
+        background-color: #fec44f;
+	color: #ffffff;
 }
 
 .submission_status_3 {
-        background-color: red;
+        background-color: #de2d26;
+	color: #ffffff;
 }
 
 .submission_status_4 {
-        background-color: grey; 
+        background-color: #636363; 
+	color: #ffffff;
 }
 
